@@ -3,7 +3,7 @@
 ![image](https://github.com/IanPelina/Menu-maker-by-Qwenta/assets/125077243/87b5cd6c-1b9e-4557-80f3-80ae2ccf2f98)
 
 
-<h2>P7 Openclassrooms: Plannifiez le développement du site de votre client</h2>
+<h2>P7 Openclassrooms: Plannifiez le développement du site de votre client</h2> 
 
 <h3>Contexte :</h3> " Vous êtes développeur front-end au sein de l’agence Webgencia. Cette semaine, on vous confie une mission un peu
 différente de d’habitude. Il ne s’agit pas de développer un site mais de mener, préparer et planifier le projet de développement
