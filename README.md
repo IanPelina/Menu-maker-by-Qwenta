@@ -1,5 +1,4 @@
 <h1>Menu-maker by Qwenta</h1>
-<h2>7ème projet de la formation</h2>
 
 ![image](https://github.com/IanPelina/Menu-maker-by-Qwenta/assets/125077243/87b5cd6c-1b9e-4557-80f3-80ae2ccf2f98)
 
